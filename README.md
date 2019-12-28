@@ -40,7 +40,7 @@ git stash	(Stash changes in a dirty working directory)
 git stash clear	(Remove all stashed entries)
 
 
-#### Sharing & Updating Projects
+### Sharing & Updating Projects
 
 git push origin [branch name]	(Push a branch to your remote repository)
 git push -u origin [branch name]	(Push changes to remote repository (and remember the branch))
@@ -54,7 +54,7 @@ git remote set-url origin ssh://git@github.com/[username]/[repository-name].git	
 
 ### Inspection & Comparison
 
-git log	(View changes)
+git log	(View changes)/
 git log --summary	(View changes (detailed))
 git log --oneline	(View changes (briefly))
 git diff [source branch] [target branch]	(Preview changes before merging)
