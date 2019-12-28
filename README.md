@@ -23,6 +23,8 @@ git rm -r [file-name.txt]	(Remove a file (or folder))
 
 ### Branching & Merging
 
+(https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+
 git branch	(List branches (the asterisk denotes the current branch))\
 git branch -a	(List all branches (local and remote))\
 git branch [branch name]	(Create a new branch)\
